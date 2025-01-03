@@ -13,11 +13,12 @@
 
 - 🔍 **Frontend Developer Expertise in:** Responsive Web Design, Component-based Architecture with React, API Integration (REST, GraphQL), State Management with Redux, Context API, UI/UX Design and Implementation, Cross-browser Compatibility & Mobile-first Design.
 
-- 💻 **Technical skills:** Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
-Frameworks/Libraries: React, Redux, Next.js, Material-UI, Bootstrap, Styled Components
-Tools: Git, Webpack, Babel, npm, Yarn
-Testing: Jest, React Testing Library, Cypress
-Others: Responsive Web Design, Accessibility, CSS Flexbox, CSS Grid.
+- 💻 **Technical skills:**
+  - Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS.
+  - Frameworks/Libraries: React, Redux, Next.js, Material-UI, Bootstrap, Styled Components.
+  - Tools: Git, Webpack, Babel, npm, Yarn.
+  - Testing: Jest, React Testing Library, Cypress.
+  - Others: Responsive Web Design, Accessibility, CSS Flexbox, CSS Grid.
 
 - 📊 **Frontend Development Highlights:**
   - Developed scalable and reusable components in React, reducing development time by 40%.
