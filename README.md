@@ -4,30 +4,43 @@
 
 <img align="right" alt="react" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 💬 **About me:** A versatile data professional with 3 years of experience and a passion for transforming raw data into compelling stories and actionable insights.
-  
-- 📈 **Professioanl Highlight:**
-  - **Data Analyst:** Tata Technologies Limited,Pune (2021- Present)
+- 💬 About Me: A versatile React Frontend Developer with 3 years of experience in crafting dynamic and responsive web applications. Passionate about building seamless user interfaces and ensuring great user experiences through efficient, clean code.
 
-- 🌱 **Currently exploring:** Advanced Machine Learning, Natural Language Processing, Big Data Analytics, and Data Warehousing.
+- 📈 Professional Highlight:
 
-- 🔍 **Data Analyst expertise in:** Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Business Intelligence, and Reporting.
+Frontend Developer: XYZ Technologies, Mumbai (2021 – Present)
+🌱 Currently exploring: Advanced React Patterns, Server-Side Rendering (SSR), Progressive Web Apps (PWAs), Web Performance Optimization, and TypeScript.
 
-- 💻 **Technical skills:** Python, SQL, Power BI, Tableau, TensorFlow, Scikit-Learn, Excel, Hadoop, and Spark.
+- 🔍 Frontend Developer Expertise:
 
-- 📊 **Data Science highlights:**
-  - Developed classification and regression models to solve complex business problems.
-  - Leveraged NLP techniques for text analysis and sentiment analysis.
-  - Applied clustering and segmentation techniques for customer analysis.
+Responsive Web Design
+Component-based Architecture with React
+API Integration (REST, GraphQL)
+State Management with Redux, Context API
+UI/UX Design and Implementation
+Cross-browser Compatibility & Mobile-first Design
+- 💻 Technical Skills:
 
-- 📊 **Data Analytics highlights:**
-  - Conducted thorough data audits and data quality assessments.
-  - Designed and implemented data reporting frameworks.
-  - Delivered actionable insights through detailed reports and presentations.
+Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
+Frameworks/Libraries: React, Redux, Next.js, Material-UI, Bootstrap, Styled Components
+Tools: Git, Webpack, Babel, npm, Yarn
+Testing: Jest, React Testing Library, Cypress
+Others: Responsive Web Design, Accessibility, CSS Flexbox, CSS Grid
+- 📊 Frontend Development Highlights:
 
-- 💡 **Passionate about:** Exploring new datasets, solving real-world problems, driving data-driven decision-making, and sharing knowledge through data storytelling.
+Developed scalable and reusable components in React, reducing development time by 40%.
+Optimized website performance by implementing lazy loading, code-splitting, and image optimization.
+Worked closely with backend developers to integrate RESTful APIs and manage asynchronous data flow with Redux.
+Ensured cross-browser compatibility and mobile responsiveness, improving user satisfaction.
+Built and maintained UI components for multiple web applications, enhancing user interaction by 25%.
+- 📊 UI/UX Development Highlights:
 
-- 🛠️ **Tools & Technologies:** Proficient in using Jupyter Notebooks, Git, Google Analytics.
+Designed and developed user-friendly interfaces, resulting in improved engagement.
+Collaborated with UX/UI designers to ensure a seamless visual experience, aligning with design principles.
+Implemented feedback loops and usability testing to refine the application’s interface.
+- 💡 Passionate about: Crafting intuitive, performance-optimized web applications, staying on top of modern frontend trends, and improving the overall user experience with React and JavaScript.
+
+- 🛠️ Tools & Technologies: Proficient in Git, Webpack, Babel, Figma, Postman, and Google Chrome DevTools.
 
 - 📫 **How to reach me:** [kalpeshpatil28oct99@gmail.com](mailto:kalpeshpatil28oct99@gmail.com)
 
