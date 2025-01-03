@@ -40,6 +40,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kalpesh-patil-409b69156/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 </p>
+<p>Open link in a new window or tab: <a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
