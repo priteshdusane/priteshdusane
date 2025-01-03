@@ -43,14 +43,104 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/TypeScript_logo_2020.svg" alt="TypeScript" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo.svg" alt="HTML5" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/TR/css/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo.svg" alt="CSS3" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
+</a>
+
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Redux_Logo.png" alt="Redux" width="40" height="40"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Nextjs-logo.svg" alt="Next.js" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40"/>
+</a>
+
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Jest-logo.svg" alt="Jest" width="40" height="40"/>
+</a>
+
+<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/React_Testing_Library_logo.svg" alt="React Testing Library" width="40" height="40"/>
+</a>
+
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Webpack_logo.svg" alt="Webpack" width="40" height="40"/>
+</a>
+
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Babel_Logo.png" alt="Babel" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-logo.svg" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Npm-logo.svg" alt="npm" width="40" height="40"/>
+</a>
+
+<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Yarn-logo.svg" alt="Yarn" width="40" height="40"/>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/>
+</a>
+
+<a href="https://mui.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Material-UI_logo.svg" alt="Material-UI" width="40" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+</a>
+
+<a href="https://graphql.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/GraphQL_Logo.png" alt="GraphQL" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Postman_logo.png" alt="Postman" width="40" height="40"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Figma-logo.svg" alt="Figma" width="40" height="40"/>
+</a>
+
+<a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/DevTools_logo_2019.png" alt="Chrome DevTools" width="40" height="40"/>
+</a>
+
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Vercel_logo.svg" alt="Vercel" width="40" height="40"/>
+</a>
+
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Netlify_Logo.svg" alt="Netlify" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Docker_logo.png" alt="Docker" width="40" height="40"/>
+</a>
+
 </p>
