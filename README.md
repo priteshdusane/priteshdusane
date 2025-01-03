@@ -33,7 +33,7 @@ Others: Responsive Web Design, Accessibility, CSS Flexbox, CSS Grid.
 
 - 🛠️ **Tools & Technologies:** Proficient in Git, Webpack, Babel, Figma, Postman, and Google Chrome DevTools..
 
-- 📫 **How to reach me:** [kalpeshpatil28oct99@gmail.com](mailto:kalpeshpatil28oct99@gmail.com)
+- 📫 **How to reach me:** [kalpeshpatil28oct99@gmail.com](mailto:priteshdusane0429@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
