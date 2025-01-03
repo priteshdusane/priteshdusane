@@ -67,20 +67,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
 </a>
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-</a>
-
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </a>
 
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-</a>
-
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testing-library/testing-library-original.svg" alt="React Testing Library" width="40" height="40"/>
 </a>
 
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
@@ -115,24 +107,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
 </a>
 
-<a href="https://graphql.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-original.svg" alt="GraphQL" width="40" height="40"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postman" width="40" height="40"/>
-</a>
-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </a>
 
 <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome DevTools" width="40" height="40"/>
-</a>
-
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
 </a>
 
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
