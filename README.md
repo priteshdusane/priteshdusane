@@ -11,7 +11,7 @@
 
 - 🌱 **Currently exploring:** Advanced React Patterns, Server-Side Rendering (SSR), Progressive Web Apps (PWAs), Web Performance Optimization, and TypeScript.
 
-- 🔍 **Frontend Developer Expertise:** Responsive Web Design, Component-based Architecture with React, API Integration (REST, GraphQL), State Management with Redux, Context API, UI/UX Design and Implementation, Cross-browser Compatibility & Mobile-first Design.
+- 🔍 **Frontend Developer Expertise in:** Responsive Web Design, Component-based Architecture with React, API Integration (REST, GraphQL), State Management with Redux, Context API, UI/UX Design and Implementation, Cross-browser Compatibility & Mobile-first Design.
 
 - 💻 **Technical skills:** Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
 Frameworks/Libraries: React, Redux, Next.js, Material-UI, Bootstrap, Styled Components
