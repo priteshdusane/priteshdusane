@@ -1,46 +1,37 @@
 
-<h1 align="center">Hi 👋, I'm Pritesh Dusane</h1>
-<h3 align="center">Front-End Developer </h3>
+<h1 align="center">Hi 👋, I'm Kalpesh Patil</h1>
+<h3 align="center">Data Scientist | Data Analyst | Machine Learning Enthusiast | Data Storyteller</h3>
 
-<img align="right" alt="react" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="datascience" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 💬 About Me: A versatile React Frontend Developer with 3 years of experience in crafting dynamic and responsive web applications. Passionate about building seamless user interfaces and ensuring great user experiences through efficient, clean code.
+- 💬 **About me:** A versatile React Frontend Developer with 3 years of experience in crafting dynamic and responsive web applications. Passionate about building seamless user interfaces and ensuring great user experiences through efficient, clean code.
+  
+- 📈 **Professioanl Highlight:**
+  - **Frontend Developer:** Tata Consultancy Services Limited,Pune (2022- Present)
 
-- 📈 Professional Highlight:
+- 🌱 **Currently exploring:** Advanced React Patterns, Server-Side Rendering (SSR), Progressive Web Apps (PWAs), Web Performance Optimization, and TypeScript.
 
-Frontend Developer: XYZ Technologies, Mumbai (2021 – Present)
-🌱 Currently exploring: Advanced React Patterns, Server-Side Rendering (SSR), Progressive Web Apps (PWAs), Web Performance Optimization, and TypeScript.
+- 🔍 **Frontend Developer Expertise:** Responsive Web Design, Component-based Architecture with React, API Integration (REST, GraphQL), State Management with Redux, Context API, UI/UX Design and Implementation, Cross-browser Compatibility & Mobile-first Design.
 
-- 🔍 Frontend Developer Expertise:
-
-Responsive Web Design
-Component-based Architecture with React
-API Integration (REST, GraphQL)
-State Management with Redux, Context API
-UI/UX Design and Implementation
-Cross-browser Compatibility & Mobile-first Design
-- 💻 Technical Skills:
-
-Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
+- 💻 **Technical skills:** Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
 Frameworks/Libraries: React, Redux, Next.js, Material-UI, Bootstrap, Styled Components
 Tools: Git, Webpack, Babel, npm, Yarn
 Testing: Jest, React Testing Library, Cypress
-Others: Responsive Web Design, Accessibility, CSS Flexbox, CSS Grid
-- 📊 Frontend Development Highlights:
+Others: Responsive Web Design, Accessibility, CSS Flexbox, CSS Grid.
 
-Developed scalable and reusable components in React, reducing development time by 40%.
-Optimized website performance by implementing lazy loading, code-splitting, and image optimization.
-Worked closely with backend developers to integrate RESTful APIs and manage asynchronous data flow with Redux.
-Ensured cross-browser compatibility and mobile responsiveness, improving user satisfaction.
-Built and maintained UI components for multiple web applications, enhancing user interaction by 25%.
-- 📊 UI/UX Development Highlights:
+- 📊 **Frontend Development Highlights:**
+  - Developed scalable and reusable components in React, reducing development time by 40%.
+  - Optimized website performance by implementing lazy loading, code-splitting, and image optimization.
+  - Worked closely with backend developers to integrate RESTful APIs and manage asynchronous data flow with Redux.
 
-Designed and developed user-friendly interfaces, resulting in improved engagement.
-Collaborated with UX/UI designers to ensure a seamless visual experience, aligning with design principles.
-Implemented feedback loops and usability testing to refine the application’s interface.
-- 💡 Passionate about: Crafting intuitive, performance-optimized web applications, staying on top of modern frontend trends, and improving the overall user experience with React and JavaScript.
+- 📊 **UI/UX Development Highlights:**
+  - Designed and developed user-friendly interfaces, resulting in improved engagement.
+  - Collaborated with UX/UI designers to ensure a seamless visual experience, aligning with design principles.
+  - Implemented feedback loops and usability testing to refine the application’s interface.
 
-- 🛠️ Tools & Technologies: Proficient in Git, Webpack, Babel, Figma, Postman, and Google Chrome DevTools.
+- 💡 **Passionate about:** Crafting intuitive, performance-optimized web applications, staying on top of modern frontend trends, and improving the overall user experience with React and JavaScript.
+
+- 🛠️ **Tools & Technologies:** Proficient in Git, Webpack, Babel, Figma, Postman, and Google Chrome DevTools..
 
 - 📫 **How to reach me:** [kalpeshpatil28oct99@gmail.com](mailto:kalpeshpatil28oct99@gmail.com)
 
