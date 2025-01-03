@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pritesh Dusane</h1>
 <h3 align="center">Front-End Developer </h3>
 
-<img float="right" alt="react" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="react" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 💬 **About me:** A versatile data professional with 3 years of experience and a passion for transforming raw data into compelling stories and actionable insights.
   
