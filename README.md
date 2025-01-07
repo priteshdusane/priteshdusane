@@ -1,4 +1,11 @@
+### Hi there 👋
 
+- 🔭 I’m currently working on **REACT JS**
+- 📫 How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/pritesh-dusane-93aa131b6/)
+  - <priteshdusane0429@gmail.com>
+
+<!--
 <h1 align="center">Hi 👋, I'm Pritesh Dusane</h1>
 <h3 align="center">React Frontend Developer | UI/UX Enthusiast | JavaScript Advocate | Web Performance Optimizer</h3>
 
@@ -123,3 +130,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </a>
 </p>
+-->
